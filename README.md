@@ -1,13 +1,14 @@
 # 💫 About Me:
-👋 Hi, I’m Aditya Dodiya
-💻 Full Stack Developer from India 🇮🇳
+👋 Hi, I’m **Aditya Dodiya**<br>
+💻 Full Stack Developer from India 🇮🇳<br><br>
 
-🔭 Working with PHP, JavaScript, SQL, Node.js & Express.js
-🌱 Learning Advanced JS, REST APIs, SQL optimization & Open Source
-💡 Love building responsive UIs and solving backend & database problems
+🔭 Working with PHP, JavaScript, SQL, Node.js & Express.js<br>
+🌱 Learning Advanced JS, REST APIs, SQL optimization & Open Source<br>
+💡 Love building responsive UIs and solving backend & database problems<br><br>
 
-👨‍💻 Projects: https://github.com/Aditya-255
-📫 GitHub: @Aditya-255
+👨‍💻 Projects: https://github.com/Aditya-255<br>
+📫 GitHub: @Aditya-255<br><br>
+
 ⚡ Consistent practice beats talent 🚀
 
 ## 🌐 Socials:
