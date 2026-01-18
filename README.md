@@ -4,7 +4,7 @@
 
 🔭 Working with PHP, JavaScript, SQL, Node.js & Express.js<br>
 🌱 Learning Advanced JS, REST APIs, SQL optimization & Open Source<br>
-💡 Love building responsive UIs and solving backend & database problems<br><br>
+💡 Love building responsive UIs and solving backend & database problems<br>
 
 👨‍💻 Projects: https://github.com/Aditya-255<br>
 📫 GitHub: @Aditya-255<br>
