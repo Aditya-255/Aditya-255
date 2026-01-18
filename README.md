@@ -1,6 +1,14 @@
 # 💫 About Me:
-Hi 👋, I'm Aditya Dodiya  <br>A passionate Full Stack Developer from India 🇮🇳<br><br>🔭 I’m currently working on:<br>- Web applications using PHP, JavaScript, SQL, and Node.js<br>- Backend APIs with Express.js<br>- Database-driven projects (MySQL & relational databases)<br><br>🌱 I’m currently learning:<br>- Advanced JavaScript & backend development<br>- RESTful API design<br>- Database optimization and real-world SQL use cases<br>- Open-source contribution workflow (Git & GitHub)<br><br>💡 I enjoy:<br>- Building responsive and user-friendly web interfaces<br>- Solving logical problems and database queries<br>- Learning new technologies and improving code quality<br><br>👨‍💻 All of my projects are available at:<br>- https://github.com/Aditya-255<br><br>📫 How to reach me:<br>- GitHub: @Aditya-255<br><br>⚡ Fun fact:<br>- I believe consistent practice beats talent every time 🚀<br>
+👋 Hi, I’m Aditya Dodiya
+💻 Full Stack Developer from India 🇮🇳
 
+🔭 Working with PHP, JavaScript, SQL, Node.js & Express.js
+🌱 Learning Advanced JS, REST APIs, SQL optimization & Open Source
+💡 Love building responsive UIs and solving backend & database problems
+
+👨‍💻 Projects: https://github.com/Aditya-255
+📫 GitHub: @Aditya-255
+⚡ Consistent practice beats talent 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/Aditya Dodiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadityadodiya01@Gmail.com) 
