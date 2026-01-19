@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-255&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-255&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&v=1)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-255&theme=github-dark&hide_border=true)
 
