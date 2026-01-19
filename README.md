@@ -19,9 +19,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-255&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-255&hide_border=true)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-255&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-255&layout=compact&hide_border=true)
 
 
