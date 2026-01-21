@@ -6,9 +6,6 @@
 🌱 Learning Advanced JS, REST APIs, SQL optimization & Open Source<br>
 💡 Love building responsive UIs and solving backend & database problems<br>
 
-👨‍💻 Projects: https://github.com/Aditya-255<br>
-📫 GitHub: @Aditya-255<br>
-
 ⚡ Consistent practice beats talent 🚀
 
 ## 🌐 Socials:
