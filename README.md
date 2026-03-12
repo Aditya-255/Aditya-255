@@ -1,15 +1,18 @@
 # 💫 About Me:
-👋 Hi, I’m **Aditya Dodiya**<br>
-💻 Full Stack Developer from India 🇮🇳<br>
 
-🔭 Working with PHP, JavaScript, SQL, Node.js & Express.js<br>
-🌱 Learning Advanced JS, REST APIs, SQL optimization & Open Source<br>
-💡 Love building responsive UIs and solving backend & database problems<br>
+# Aditya Dodiya
+ 
+Full Stack Developer from India — I build responsive UIs and solid backends.  
+Currently working with PHP, JavaScript, Node.js & REST APIs.  
+Always learning. Always shipping.
+
 
 ⚡ Consistent practice beats talent 🚀
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-dodiya-942218319/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadodiya449@gmail.com)
 
 ## 🧑‍💻 Tech Stack
 
